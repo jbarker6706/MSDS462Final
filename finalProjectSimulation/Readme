@@ -3,3 +3,5 @@ for claasification. Once classified the class is published for the fetcher to in
 is stil required to get the classification model working. It may be neccessary to switch to ROS2 to get my VGG16 fine-tuned 
 model to make predictions in a ROS envirnoment. I am planning on improving the fetcher as well I want to implament a Composite 
 Design pattern for the fetching process. Want to do in C++.
+
+The model has to be built using the model generator in CVmodels/burgerWaffle using images in data/burgerWaffle
