@@ -33,3 +33,5 @@ rosrun image_sim tb3fetch_subscriber.py
 
 For explanation of installing ROS and simulations read Jupyter notebook MSDS462Proj1.ipynb
 
+For better understanding of final project working scripts read Jupyter notebook Chap462FinalNotebook.ipynb
+
