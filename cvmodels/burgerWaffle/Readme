@@ -1,1 +1,2 @@
-
+This folder contains two Jupyter files one to build a fine-tuned VGG16 model to classify burger or waffle turtlebot3s. The
+other file is used to classify a burger or a waffle tb3 and any other class is the VGG16 category list.
