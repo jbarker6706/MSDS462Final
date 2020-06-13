@@ -22,7 +22,8 @@ June 12, 2020
 
 Added final version of project as it pertains to MSDS462 includes camera sim, image retreive and classify, and fetch object scripts
 To start the bot project from a ROS framework environment melodic with turtlebot3 simulation. From an Ubuntu terminal execute
-The scripts for are located in 
+The scripts for are located in finalProjectSimulation
+
 roscore
 
 roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
