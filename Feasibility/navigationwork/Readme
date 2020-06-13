@@ -1,0 +1,14 @@
+This folder contains work for researching navigation of turtlebot3 in a turtlebot3 simulation.
+If the environment is built Use the following commands 
+roscore
+roslaunch turtlebot3_gazebo turtlebot3_world.launch
+
+ and use one of the following commands to get tb3 moving
+ to wander soewhat usually to a trap
+ rosrun wander_bot turtlebot3_node.py
+ 
+ for forward motion mostly
+ rosrun wander_bot trajectory.py
+ 
+ for rotation
+ rosrun wander_bot rturtlebot.py
