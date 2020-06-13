@@ -30,3 +30,6 @@ roslaunch turtlebot3_gazebo turtlebot3_empty_world.launch
 rosrun image_sim image_sim_pub.py
 rosrun image_sim retreive_image.py
 rosrun image_sim tb3fetch_subscriber.py
+
+For explanation of installing ROS and simulations read Jupyter notebook MSDS462Proj1.ipynb
+
