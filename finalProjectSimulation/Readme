@@ -1,0 +1,5 @@
+This file contains the code for the final simulation of turtlebot3. Using ROS images are loaded and published, subcribed to 
+for claasification. Once classified the class is published for the fetcher to initiate an action of simulating a fetch. Work 
+is stil required to get the classification model working. It may be neccessary to switch to ROS2 to get my VGG16 fine-tuned 
+model to make predictions in a ROS envirnoment. I am planning on improving the fetcher as well I want to implament a Composite 
+Design pattern for the fetching process. Want to do in C++.
